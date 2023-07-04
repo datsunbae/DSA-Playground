@@ -1,6 +1,6 @@
 package Algorithms.LinearSearch;
 
-public class LinearSearch_A {
+public class LinearSearch {
     public static void main(String[] args) {
         int[] a = new int[] { 2, 6, 1, 8, 9, 12, 14, 3 };
 
